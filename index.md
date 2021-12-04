@@ -2,7 +2,7 @@
 layout: index
 title: Home
 ---
-# [GitHub Glossary](/)
+# [GitHub Glossary](https://githubfornocoders.github.io/github-glossary/)
 
 Plain-language definitions of common terms for people new to GitHub
 {: .f3}
