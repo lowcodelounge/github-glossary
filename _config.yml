@@ -1,8 +1,8 @@
 # Set a plain language title for the site.
-title: Plain Vanilla GitHub Pages
+title: GitHub Glossary | A GitHub for No-Coders Project
 
 # Write a short description for the site. This is used for "meta description."
-description: Free, easy, low-tech website template using GitHub Pages
+description: Plain-language definitions of common terms for people new to GitHub
 
 # Set the language for the site. Used for "html lang." Default is English.
 lang: en
