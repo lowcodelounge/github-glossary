@@ -1,7 +1,7 @@
 # GitHub Glossary | A GitHub for No-Coders Project
 Plain-language definitions of common terms for people new to GitHub
 
-[View the live site on GitHub Pages](https://githubfornocoders.github.io/github-glossary/)
+[View the live site on GitHub Pages](https://lowcodelounge.github.io/github-glossary/)
 
 ## Feedback
 
