@@ -2,7 +2,7 @@
 layout: index
 title: Home
 ---
-# [GitHub Glossary](https://githubfornocoders.github.io/github-glossary/)
+# [GitHub Glossary](https://github.com/lowcodelounge/github-glossary)
 
 Plain-language definitions of common terms for people new to GitHub
 {: .f3}
@@ -65,5 +65,5 @@ Plain-language definitions of common terms for people new to GitHub
 
 --- 
 
-[Collaborate on GitHub](https://github.com/githubfornocoders/github-glossary){: .btn-mktg .btn-muted-mktg .mb-2}
-[Join GitHub for No-Coders](https://github.com/githubfornocoders){: .btn-mktg .btn-muted-mktg .mb-2}
+[Collaborate on GitHub](https://github.com/lowcodelounge/github-glossary){: .btn-mktg .btn-muted-mktg .mb-2}
+[Join the Lowcode Lounge organization on GitHub](https://github.com/lowcodelounge){: .btn-mktg .btn-muted-mktg .mb-2}
